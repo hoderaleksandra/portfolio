@@ -13,7 +13,7 @@
  ## Tools used in testing
  
  * JIRA
- * [XPath] (http://xpather.com/)
+ * [XPath](http://xpather.com/)
  * 
  
  ## Tech Stack
