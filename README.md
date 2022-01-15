@@ -12,11 +12,15 @@
  
  ## Tools used in testing
  
+ * JIRA
+ * [XPath] (http://xpather.com/)
+ * 
+ 
  ## Tech Stack
  
  * SQL (MySQL)
- * [XML] 
- * [DTD]
+ * [XML] ()
+ * [DTD]()
  * [VB.NET]()
  
  ## Courses
@@ -28,4 +32,8 @@
  ## Groups for knowledge gathering
  
  * [#Mamo pracuj w IT](https://www.facebook.com/groups/mamopracujwit)
- * 
+
+ ## Blogs read
+ *[testerka.pl](http://testerka.pl)
+ *[remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
+ *[wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
