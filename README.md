@@ -33,6 +33,6 @@
  * [#Mamo pracuj w IT](https://www.facebook.com/groups/mamopracujwit)
 
  ## Blogs read
- *[testerka.pl](http://testerka.pl)
- *[remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
- *[wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
+ * [testerka.pl](http://testerka.pl)
+ * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
+ * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
