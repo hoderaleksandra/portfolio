@@ -14,6 +14,11 @@
  
  ## Tech Stack
  
+ * SQL (MySQL)
+ * [XML] 
+ * [DTD]
+ * [VB.NET]()
+ 
  ## Courses
  
  * Kurs SQL Nowoczesne Bazy Danych
