@@ -19,9 +19,8 @@
  ## Tech Stack
  
  * SQL (MySQL)
- * [XML] ()
- * [DTD]()
- * [VB.NET]()
+ * [XML](https://github.com/hoderaleksandra/invoices)
+ * [VB.NET](https://github.com/hoderaleksandra/bookstore)
  
  ## Courses
  
