@@ -25,7 +25,8 @@
  ## Courses
  
  * Kurs SQL Nowoczesne Bazy Danych
- * Programista PHP 
+ * Programista PHP
+ * Testowanie produktów cyfrowych (oprogramowania) 
  
  
  ## Groups for knowledge gathering
