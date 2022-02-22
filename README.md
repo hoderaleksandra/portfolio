@@ -14,7 +14,7 @@
  
  * JIRA
  * [XPath](http://xpather.com/)
- * 
+
  
  ## Tech Stack
  
@@ -26,7 +26,8 @@
  
  * Kurs SQL Nowoczesne Bazy Danych
  * Programista PHP
- * Testowanie produktów cyfrowych (oprogramowania) 
+ * Testowanie produktów cyfrowych (oprogramowania)
+ * uTest Academy 2022 
  
  
  ## Groups for knowledge gathering
@@ -37,3 +38,4 @@
  * [testerka.pl](http://testerka.pl)
  * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
  * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
+ * [Guru99](https://www.guru99.com/)
