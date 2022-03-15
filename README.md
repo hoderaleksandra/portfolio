@@ -13,7 +13,8 @@
  ## Tools used in testing
  
  * JIRA
- * [XPath](http://xpather.com/)
+ * Charles Proxy
+ * iMazing
 
  
  ## Tech Stack
