@@ -24,18 +24,19 @@
  
  ## Courses
  
- * Kurs SQL Nowoczesne Bazy Danych
- * Programista PHP
- * Testowanie produktów cyfrowych (oprogramowania)
  * uTest Academy 2022 
- 
+ * Kurs SQL Nowoczesne Bazy Danych - Strefa Kursów
+ * Testowanie produktów cyfrowych (oprogramowania) - Udemy 
  
  ## Groups for knowledge gathering
  
  * [#Mamo pracuj w IT](https://www.facebook.com/groups/mamopracujwit)
 
  ## Blogs read
+ * [Guru99](https://www.guru99.com/)
  * [testerka.pl](http://testerka.pl)
  * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
  * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
- * [Guru99](https://www.guru99.com/)
+
+ ## Examples of bug report
+ * []
