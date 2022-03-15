@@ -7,15 +7,6 @@ Currently living in the North of Spain.
 I have a special interest in traveling and mountain hiking, I walked the Camino de Santiago in 2015 and 2016. 
 As I am an active person I do sports like yoga, cycling, swimming, etc. I like reading books about psychology/self-development and novels in English or Spanish.
 
-## My TOP 5 Clifton Strengths
-My five TOP Clifton Strengths are Restorative, Individualization, Responsibility, Harmony and Deliberative. 
-I enjoy the challenge of analyzing the symptoms, identifying what is wrong and finding the solution.
-I am careful and vigilant, that’s why I like to plan ahead and anticipate what might go wrong. 
-I have deep sense of many risks, but rather than denying them I shed light on them.
-I always thinking about the ways I can improve my skills.  I have a strong need to do each task correctly. 
-I don’t like generalizations, because I know that everyone is special and unique. 
-As person with Harmony strengths I look for areas of agreement and finding solution. 
-
 ## Manual Tester
 
 Last year I completed postgraduate studies in Software Engineering (AGH - University of Science and Technology)
