@@ -28,6 +28,7 @@ I am currently participating in the uTest Academy course, where I am learning to
  
  * uTest Academy 2022 
  * Kurs SQL Nowoczesne Bazy Danych - Strefa Kursów
+ * HackerRank - SQL
  * Testowanie produktów cyfrowych (oprogramowania) - Udemy 
  
  ## Groups for knowledge gathering
@@ -41,4 +42,4 @@ I am currently participating in the uTest Academy course, where I am learning to
  * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 
  ## Examples of bug report
- * [Issues Report - GNC](https://drive.google.com/drive/folders/1Nus_N-jvmE9D_5tm1UjnLH_LuT8P5xyE?usp=sharing)
+ * [Issues Report - GNC](https://drive.google.com/drive/folders/1Nus_N-jvmE9D_5tm1UjnLH_LuT8P5xyE?usp=sharing) 
