@@ -12,28 +12,46 @@ As I am an active person I do sports like yoga, cycling, swimming, etc. I like r
 Last year I completed postgraduate studies in Software Engineering (AGH - University of Science and Technology)
 I am currently participating in the uTest Academy course, where I am learning to report bugs in a practical way and gain my first experience in testing web and mobile applications. I derive my theoretical knowledge from ISTQB foundation level materials and blogs about testing.
 
- ## Tools used in testing
+ ## TOOLS
  
  * Jira
  * Charles Proxy
  * iMazing
+ * XPath 
+ * Screencast-O-Matic
+ * HandBrake
+ * Visio
+ * VisualStudio
+ * DevTools
+ * Eclipse
+ * Postman
 
- ## Tech Stack
+ ## Tech Stach
  
  * SQL (MySQL)
  * [XML](https://github.com/hoderaleksandra/invoices)
  * [VB.NET](https://github.com/hoderaleksandra/bookstore)
+ * [HTML/CSS](https://github.com/hoderaleksandra/businesscard)
+
+## Test Skills
+
+ * Bugs Reporting
+ * Test Cases Diagrams
+ * Test Scenarios
+ * Console Log Collection
+ 
  
  ## Courses
  
  * uTest Academy 2022 
  * Kurs SQL Nowoczesne Bazy Danych - Strefa Kursów
- * HackerRank - SQL
+ * [HackerRank - SQL](https://www.hackerrank.com/moskal_a_89)
  * Testowanie produktów cyfrowych (oprogramowania) - Udemy 
  
  ## Groups for knowledge gathering
  
  * [#Mamo pracuj w IT](https://www.facebook.com/groups/mamopracujwit)
+ * [#Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
 
  ## Blogs read
  * [Guru99](https://www.guru99.com/)
@@ -41,5 +59,5 @@ I am currently participating in the uTest Academy course, where I am learning to
  * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
  * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 
- ## Examples of bug report
+
 
