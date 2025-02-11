@@ -21,7 +21,7 @@ Preparing demo version of Repcon Pricing and Quoting App for potential clients, 
  * Visual Studio Code
  * DevTools
 
- ## Tech Stach
+ ## Tech Stack
 
  * Repcon (based on Prolog)
  * SQL (MySQL)
