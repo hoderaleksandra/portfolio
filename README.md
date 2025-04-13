@@ -8,7 +8,7 @@ I am a nature lover and I love exploring places near and far.
 
 ## Junior Software Engineer
 
-In 2022 I completed postgraduate studies in Software Engineering (AGH - University of Science and Technology).
+In 2021 I completed postgraduate studies in Software Engineering (AGH - University of Science and Technology).
 Since 2023 I have been working as Junior Software Engineer in company dedicated to create software for industry sector. 
 My main duties are implementation of the order generation and offer generation software repcon pricing & quoting.
 Preparing demo version of Repcon Pricing and Quoting App for potential clients, Debugging, 1st Line IT Support.
